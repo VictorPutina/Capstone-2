@@ -65,8 +65,9 @@
     border-color: #819A91;
 }
 .btn.btn-primary:focus {
-    background-color: #EEEFE0;
-    border-color: #819A91;
+    box-shadow: none !important;
+    background-color: #EEEFE0 !important;
+    border-color: #819A91 !important;
 }
 .nav-link{
   color: #819A91;
