@@ -81,3 +81,8 @@ p.col-lg-6.mx-auto.mb-4{
 .footer {
   background-color: #EEEFE0;
 }
+.about-me a {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+}
